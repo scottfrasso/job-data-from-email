@@ -1,0 +1,743 @@
+job_title,company,minimum_salary,maximum_salary,currency,technology,primary_location_city,primary_location_country,remote,job_timestamp
+Remote Node.js Developer,Remedy,,,PLN,Node.js,Warsaw,Poland,True,2022-02-24
+Remote Node.js Engineer,Link Group,,,PLN,Node.js,Warsaw,Poland,True,2022-02-24
+Remote Node.js Engineer,Ringier Axel Springer Tech,,,PLN,Node.js,Kraków,Poland,True,2022-02-24
+Remote Node.js Developer,HR Bank Sp. z o.o /Headhunting Agency,,,PLN,Node.js,Warsaw,Poland,True,2022-02-24
+Remote Senior Node.Js Developer,Westwing Sp. z o.o.,,,PLN,Node.Js,Warsaw,Poland,True,2022-02-24
+Junior Remote Node.js Developer,Nextrope,,,PLN,Node.js,Gdynia,Poland,True,2022-02-24
+Remote Mid Node.JS Backend Developer,Massive Pixel Creation,,,PLN,Node.JS,Katowice,Poland,True,2022-02-24
+Remote Node.js Engineer,medcase Health,,,PLN,Node.js,Warsaw,Poland,True,2022-02-24
+Software Engineer,ShiftKey,,,PLN,,Warsaw,Poland,True,2022-02-24
+Team Lead Software Engineer,AUTO1 Group,,,PLN,,Katowice,Poland,True,2022-02-24
+Remote Node.js Developer,RST Software Masters,9000.0,18000.0,PLN,Node.js,Świdnica,Poland,True,2022-05-13
+Node.js Developer,Boldare,9000.0,15700.0,PLN,Node.js,Wrocław,Poland,True,2022-05-13
+Software Developer (.NET),Apptio,14000.0,22000.0,PLN,.NET,Kraków,Poland,False,2022-05-13
+AWS Engineer,Spyrosoft,18480.0,29400.0,PLN,AWS,Wroclaw,Poland,False,2022-05-13
+Senior Software Engineer,Upflex,,,string,,string,,,2022-03-29
+Software Engineer,ShiftKey,,,string,,Warsaw,string,True,2022-03-29
+Team Lead Software Engineer,AUTO1 Group,,,string,,Katowice,string,True,2022-03-29
+Software Developer,ImpactDev.io,,,string,,string,,True,2022-03-29
+Senior Software Developer,ImpactDev.io,,,string,,string,,True,2022-03-29
+Senior Software Developer,GIAP,,,string,,Lublin,string,True,2022-03-29
+Software Engineer,Wunderman Thompson Technology,,,string,,string,,True,2022-03-29
+Senior It Developer,Nordea Bank ABP,,,string,,Warszawa,string,False,2022-03-29
+Backend Developer,Creditstar AS,,,string,,Tallinn,string,True,2022-03-29
+Software Engineer,Semaphore,,,string,,Warszawa,string,True,2022-03-29
+Backend Developer,UpLink,,,string,,Porto,string,True,2022-03-29
+Mid DevOps/ SecOps Engineer,Zebra Technologies,8000.0,11000.0,PLN,,Gliwice,Poland,False,2024-02-17
+Junior DevOps/ SecOps Engineer,Zebra Technologies,6000.0,10000.0,PLN,,Gliwice,Poland,False,2024-02-17
+Cloud Developer (Serverless),VML Commerce & Technology,14000.0,20000.0,PLN,,Katowice,Poland,True,2024-02-17
+Senior Cloud Developer (Serverless),VML Commerce & Technology,21000.0,26000.0,PLN,,Katowice,Poland,True,2024-02-17
+Backend Developer,Profitroom,12500.0,17000.0,PLN,,Poznan,Poland,True,2024-02-17
+Node.js Developer,MUG Software,8000.0,16000.0,PLN,Node.js,Poznań,Poland,False,2024-02-17
+DevOps Engineer,Celadon,8000.0,12000.0,PLN,,available,,True,2024-02-17
+Backend .NET Software Engineer,Appfire,13400.0,18000.0,PLN,.NET,Gdańsk,Poland,True,2024-02-17
+Senior DevOps Engineer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,10000.0,20000.0,PLN,,Katowice,Poland,False,2024-02-17
+Principal Backend Developer Remote (Node.js),Hyland,24000.0,28800.0,PLN,Node.js,Katowice,Poland,True,2024-02-17
+Node.js Backend Developer (100% remote),PGS Software S.A.,11000.0,20000.0,PLN,Node.js,Wrocław,Poland,True,2022-03-27
+.NET Developer,Sollers Consulting,9500.0,18000.0,PLN,.NET,Warszawa,Poland,False,2022-03-27
+Remote Mid Backend Engineer,Nextbike Polska S.A w Restrukturyzacji,13000.0,19000.0,PLN,backend,Warszawa,Poland,True,2022-03-27
+Remote Mid Backend Engineer,Nextbike Polska S.A w Restrukturyzacji,13000.0,19000.0,PLN,backend,Warszawa,Poland,True,2022-03-27
+Senior/Principal Node.js Developer,PGS Software S.A.,15000.0,27000.0,PLN,Node.js,Gdańsk,Poland,True,2022-03-27
+Senior Software Engineer (NodeJS),Proteus.Finance,12000.0,20000.0,PLN,NodeJS,Remote,,True,2022-03-27
+"Remote Backend Developer (node.js, AWS)",ClearScale,7560.0,10080.0,USD,node.js,Warszawa,Poland,True,2022-03-27
+Senior Quality Assurance Engineer,Orca AG,6666.0,9166.0,CHF,Quality Assurance,Zurich,Switzerland,False,2022-03-27
+Senior NodeJS TypeScript Developer,Digital Seals GmbH,5000.0,9500.0,USD,TypeScript,Berlin,Germany,True,2022-03-27
+Senior Software Engineer,Upflex,6000.0,9000.0,USD,Software Engineer,Gdansk,Poland,True,2022-03-27
+Senior Backend Engineer - Node JS,ScreamingBox LLC,,,string,Node JS,string,,,2022-03-29
+Senior Software Engineer (NodeJS),Proteus.Finance,,,string,NodeJS,Remote,,True,2022-03-29
+Node.js Engineer,Ringier Axel Springer Tech,,,string,Node.js,Kraków,Poland,False,2022-03-29
+"Remote Backend Developer (node.js, AWS)",ClearScale,,,string,node.js,Warszawa,Poland,True,2022-03-29
+Mid Senior Backend Developer (Node.js),Swing Development,,,string,Node.js,Warszawa,Poland,True,2022-03-29
+Senior Node.js Developer,Netguru,,,string,Node.js,Poznań,Poland,True,2022-03-29
+Mid NodeJS Developer,Acaisoft Poland Sp. z o.o.,,,string,NodeJS,Warsaw,Poland,True,2022-03-29
+Senior Node.js Developer,Codete,,,string,Node.js,Kraków,Poland,True,2022-03-29
+Node.js Backend Engineer (remote),BytePitch Poland Sp. z o.o.,,,string,Node.js,Łódź,Poland,True,2022-03-29
+Senior Node.js Developer,Acaisoft Poland Sp. z o.o.,,,string,Node.js,Warsaw,Poland,True,2022-03-29
+Node.js Developer,LEOCODE,,,string,Node.js,Katowice,Poland,True,2022-03-29
+Senior Cloud Engineer,Ework Group,26880.0,31920.0,PLN,,Copenhagen,,True,2023-07-25
+Remote Senior DevOps,RemoDevs,6500.0,7500.0,EUR,,Warszawa,Poland,True,2023-07-25
+IntelliJ Plugins Engineer,VirtusLab,21000.0,27000.0,PLN,,Rzeszów,Poland,True,2023-07-25
+Senior Backend Engineer,Micromobility solutions sp. z o.o.,23000.0,30000.0,PLN,,Warszawa,Poland,True,2023-07-25
+Backend Node.js Engineer,Appfire,17000.0,24500.0,PLN,Node.js,Warsaw,Poland,True,2023-07-25
+Java Developer,Bravura Solutions Polska Sp. z o.o.,20160.0,25200.0,PLN,Java,Warszawa,Poland,True,2023-07-25
+Senior Software Engineer (Java),FINEOS,15000.0,23000.0,PLN,Java,Gdańsk,Poland,True,2023-07-25
+Lead Back-end JavaScript Developer,Klika Tech,22680.0,30240.0,PLN,JavaScript,Wrocław,Poland,True,2023-07-25
+Senior Back-end JavaScript Developer,Klika Tech,22680.0,30240.0,PLN,JavaScript,Wrocław,Poland,True,2023-07-25
+Backend Developer,Archilogic AG,6250.0,7083.0,CHF,,Remote,,True,2023-07-25
+Senior Python Developer,ASTEK Polska,21000.0,23100.0,PLN,Python,Warszawa,Poland,False,2023-11-23
+Junior .NET Developer,AXA IT Solutions,10080.0,16800.0,PLN,.NET,Warszawa,Poland,False,2023-11-23
+Senior Software Engineer - Java | Kotlin,BitBot Technology Limited,29400.0,29400.0,PLN,Java,Remote,,True,2023-11-23
+IntelliJ Plugins Engineer,VirtusLab,21000.0,27000.0,PLN,,Rzeszów,Poland,True,2023-08-01
+Java Developer,Bravura Solutions Polska Sp. z o.o.,20160.0,25200.0,PLN,Java,Warsaw,Poland,True,2023-08-01
+Lead Back-end JavaScript Developer,Klika Tech,22680.0,30240.0,PLN,JavaScript,Wrocław,Poland,True,2023-08-01
+Backend Node.js Engineer,Appfire,17000.0,24500.0,PLN,Node.js,Warsaw,Poland,True,2023-08-01
+Senior Back-end JavaScript Developer,Klika Tech,22680.0,30240.0,PLN,JavaScript,Wrocław,Poland,True,2023-08-01
+Senior Node.js Engineer,Ringier Axel Springer Tech,15100.0,25200.0,PLN,Node.js,Kraków,Poland,False,2023-08-01
+Remote Senior Software Engineer (Java),FINEOS,15000.0,23000.0,PLN,Java,Gdańsk,Poland,True,2023-08-01
+Remote Mid Java & Camunda Developer,Tuatara,13000.0,17000.0,PLN,Java,Warsaw,Poland,True,2023-08-01
+API Management System Developer,Orange Polska,13000.0,17000.0,PLN,,Warsaw,Poland,False,2023-08-01
+👉 Node.js Backend Developer,Xebia,15000.0,22500.0,PLN,Node.js,Wrocław,Poland,True,2023-08-01
+Lead Software Engineer,Amagi,26000.0,26000.0,PLN,,Łódź,Poland,True,2024-06-18
+Cloud Technical Architect - with GCP + Python,VML Enterprise Solutions,22000.0,27000.0,PLN,Python,Bydgoszcz,Poland,True,2024-06-18
+Senior Python Developer/Team Leader,Pivotics,5000.0,6000.0,USD,Python,Wroclaw,Poland,True,2024-06-18
+Lead Java Software Engineer,SoftServe,19000.0,27000.0,PLN,Java,Wrocław,Poland,True,2024-06-18
+Senior Backend Engineer (Nodejs & AWS) - Remote,Link Group,21840.0,25200.0,PLN,Nodejs,Gdynia,Poland,True,2024-06-18
+Backend TypeScript Developer (AWS) - Remote,7N,30240.0,36120.0,PLN,TypeScript,Remote,,True,2024-06-18
+Remote Senior Backend Developer,Relout,27000.0,36000.0,PLN,,Remote,,True,2024-06-18
+Lead Backend Node.js Engineer (REMOTE),Valtech,5000.0,6400.0,EUR,Node.js,Remote,,True,2024-06-18
+Golang Developer,Vier,5000.0,6000.0,EUR,Golang,Poznań,Poland,False,2024-06-18
+Senior Golang Fullstack Developer,Vier,5000.0,6000.0,EUR,Golang,Poznań,Poland,False,2024-06-18
+AI Engineer (Generative AI & NLP),Altimetrik Poland,,,string,string,string,Poland,,2023-11-03
+Senior Python Developer (AI/ML/MLOps),Link Group,,,string,Python,Kraków,Poland,,2023-11-03
+Python Developer - AI,Zone IT Sp. z o.o.,,,string,Python,Wrocław,Poland,,2023-11-03
+Tester (Pentester) - AI,Zone IT Sp. z o.o.,,,string,AI,Wrocław,Poland,,2023-11-03
+Test Engineer - AI,Zone IT Sp. z o.o.,,,string,AI,Wrocław,Poland,,2023-11-03
+AI Engineer,Ness Solution Sp. z o. o.,,,string,AI,string,Poland,True,2023-11-03
+Oracle Specialist - AI,Zone IT Sp. z o.o.,,,string,AI,Wrocław,Poland,,2023-11-03
+Technical Team Leader | ML/AI,Open Nexus sp. z o.o.,,,string,AI,Poznań,Poland,,2023-11-03
+Junior AI Engineer,INK Solutions Z.o.o,,,string,AI,Warsaw,Poland,,2023-11-03
+Lead MLOps Engineer (Nvidia AI Stack Expert),SoftServe,,,string,AI,Wrocław,Poland,True,2023-11-03
+Expert AI Engineer (ID 784),Infopulse,,,string,AI,Lodz,Poland,True,2023-11-03
+Backend Engineer,Rollup,,,string,,string,,,2023-09-30
+Team Lead Engineer,Sunscrapers,,,string,,Warsaw,Poland,True,2023-09-30
+Backend Developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,,,string,,Tychy,Poland,False,2023-09-30
+Software Engineer (28058),Splunk Services Sp. z o.o.,,,string,,Kraków,Poland,False,2023-09-30
+Senior/Lead Developer,Link Group,,,string,,Warszawa,Poland,False,2023-09-30
+Back-end Developer,LETHE Jakub Chmielniak,,,string,,Bielsko - Biała,Poland,True,2023-09-30
+Backend Developer Node.js/TypeScript,Devire Sp. z o.o.,,,string,,string,,True,2023-09-30
+Senior Backend Software Engineer,SmartRecruiters Inc.,,,string,,Kraków,Poland,True,2023-09-30
+Senior Backend Developer,Shiji Poland,,,string,,Katowice,Poland,True,2023-09-30
+Senior Typescript Developer (part-time),Superdevs,,,string,,string,,True,2023-09-30
+Backend Team Leader,Sportradar,,,string,,Warsaw,Poland,False,2023-09-30
+Senior Java Engineer,AUTO1 Polska Sp.z o.o.,20000.0,25000.0,PLN,Java,Remote,,True,2023-11-28
+Data Engineer (real-time),Codete,,,string,,string,,,2023-11-13
+Remote Senior Data Engineer (Spark),Varwise,,,string,Spark,Wrocław,Poland,True,2023-11-13
+Remote Data Engineer (Spark),Varwise,,,string,Spark,Wrocław,Poland,True,2023-11-13
+Mid/Senior Data Engineer (GCP),GetInData,,,string,GCP,Warsaw,Poland,True,2023-11-13
+Remote Senior Data Engineer,Kingfisher plc.,,,string,,Krakow,Poland,True,2023-11-13
+Lead Data Science Consultant,SoftServe,,,string,,Wrocław,Poland,True,2023-11-13
+"Data Engineer (ETL, Python, SQL)",Crestt,,,string,"ETL, Python, SQL",Warsaw,Poland,True,2023-11-13
+Senior Data Engineer,AVENGA,,,string,,string,,True,2023-11-13
+Azure Data Architect,Avenga,,,string,,string,,True,2023-11-13
+Senior Data Engineer with Python,Objectivity - part of Accenture,,,string,Python,Wrocław,Poland,True,2023-11-13
+Data Scientist,Avenga,,,string,,string,,True,2023-11-13
+Senior Software Engineer - Java,Volvo Tech Hub Poland,19000.0,24000.0,PLN,Java,Kraków,Poland,False,2024-07-09
+Senior Backend Node.js Developer,Appfire,18300.0,25100.0,PLN,Node.js,Łódź,Poland,True,2024-07-09
+Senior Backend Java Developer,Appfire,18300.0,25100.0,PLN,Java,Gdynia,Poland,True,2024-07-09
+Node.js Engineer,Appfire,13500.0,18000.0,PLN,Node.js,Gdynia,Poland,True,2024-07-09
+Remote Senior Backend Developer,Relout,27000.0,36000.0,PLN,,Remote,,True,2024-07-09
+Backend TypeScript Developer (AWS) - Remote,7N,30240.0,36120.0,PLN,TypeScript,Remote,,True,2024-07-09
+Senior Backend Developer (Java/Kotlin),Bright Inventions,22680.0,27216.0,PLN,Java,Gdańsk,Poland,False,2024-07-09
+.NET Developer,Margo Consulting Polska,16000.0,24000.0,PLN,.NET,Warszawa,Poland,False,2024-07-09
+Senior DevOps Engineer,Link Group,18480.0,21840.0,PLN,,Warszawa,Poland,False,2024-07-09
+Senior Backend Developer,Mindbox S.A.,31500.0,39900.0,PLN,,Remote,,True,2024-07-09
+Senior .NET Engineer,C.H. Robinson,18000.0,23000.0,PLN,.NET,Warsaw,Poland,False,2023-08-29
+Java Developer New Core Banking,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,14000.0,22000.0,PLN,Java,Tychy,Poland,False,2023-08-29
+Node.js Developer,Avenga,21840.0,23520.0,PLN,Node.js,Remote,,True,2023-08-29
+DevOps Engineer,HERO LABS,21000.0,28000.0,PLN,DevOps,Łódź,Poland,False,2023-08-29
+Senior C++ Engineer,SmartBear,21000.0,24000.0,PLN,C++,Remote,,True,2023-08-29
+Java Developer,Objectivity - part of Accenture,15960.0,26880.0,PLN,Java,Gdańsk,Poland,False,2023-08-29
+Senior Backend Node.js Developer,Wingspan,7083.0,7708.0,USD,Node.js,Warszawa,Poland,False,2023-08-29
+Senior Node.js Backend Developer,Clurgo Sp. z o.o.,23520.0,27720.0,PLN,Node.js,Warszawa,Poland,False,2023-08-29
+Backend Developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,10000.0,16000.0,PLN,Backend,Tychy,Poland,False,2023-08-29
+Senior Cloud Engineer,emagine Sp. Z o.o.,29400.0,31920.0,PLN,Cloud,Remote,,True,2023-08-29
+Lead Software Engineer,Amagi,26000.0,26000.0,PLN,,Łódź,Poland,True,2024-06-02
+Senior Software Engineer,skyquest AG,26250.0,36750.0,PLN,,Remote,,True,2024-06-02
+Senior Data Engineer,Ework Group,6720.0,9240.0,EUR,,Remote,,True,2024-06-02
+Senior SRE/DevOps Engineer,Ework Group,45.0,50.0,EUR,,Warsaw,Poland,True,2024-06-02
+Senior SRE Engineer,Kingfisher plc.,24000.0,28000.0,PLN,,Kraków,Poland,True,2024-06-02
+Senior Java Developer (+Angular),Ness Solution Sp. z o. o.,25200.0,31920.0,PLN,Java,Warszawa,Poland,False,2024-06-02
+Senior Java Developer,AVENGA,26880.0,28560.0,PLN,Java,Remote,,True,2024-06-02
+Remote Senior Backend Java Developer,Shift4,25000.0,32000.0,PLN,Java,Wrocław,Poland,True,2024-06-02
+Senior DevOps Engineer - Core Banking Area,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,12000.0,22000.0,PLN,DevOps,Warszawa,Poland,True,2024-06-02
+Node.js Developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,15000.0,16000.0,PLN,Node.js,Tychy,Poland,True,2024-06-02
+AI DevOps Engineer,Lingaro,,,string,,string,,,2023-11-13
+AI Engineer (Generative AI & NLP),Altimetrik Poland,,,string,,Wrocław,Poland,True,2023-11-13
+AI Engineer,Ness Solution Sp. z o. o.,,,string,,string,,True,2023-11-13
+Junior AI Engineer,INK Solutions Z.o.o,,,string,,Warsaw,Poland,,2023-11-13
+Technical Team Leader | ML/AI,Open Nexus sp. z o.o.,,,string,,Poznań,Poland,,2023-11-13
+Team Manager (AI/IoT),Fitech Sp. ZO.O,,,string,,Kraków,Poland,,2023-11-13
+Python Developer - AI,Zone IT Sp. z o.o.,,,string,Python,Wrocław,Poland,,2023-11-13
+Oracle Specialist - AI,Zone IT Sp. z o.o.,,,string,,Wrocław,Poland,,2023-11-13
+Tester (Pentester) - AI,Zone IT Sp. z o.o.,,,string,,Wrocław,Poland,,2023-11-13
+Test Engineer - AI,Zone IT Sp. z o.o.,,,string,,Wrocław,Poland,,2023-11-13
+Lead MLOps Engineer (Nvidia AI Stack Expert),SoftServe,,,string,,Wrocław,Poland,True,2023-11-13
+Node.js Developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,15000.0,16000.0,PLN,Node.js,Tychy,Poland,True,2024-05-28
+Senior BackEnd Engineer,NewGMedia,4000.0,7000.0,USD,,Remote,,True,2024-05-28
+Senior Backend Engineer (Growth - Node),Zowie,20000.0,30000.0,PLN,Node.js,Warsaw,Poland,False,2024-05-28
+Senior .NET Developer,Hued.me,13440.0,18480.0,PLN,.NET,Wrocław,Poland,False,2024-05-28
+Mid .NET Developer,Hued.me,8400.0,15120.0,PLN,.NET,Wrocław,Poland,False,2024-05-28
+Programista .NET,Margo Consulting Sp. z o.o.,16000.0,24000.0,PLN,.NET,Warsaw,Poland,False,2024-05-28
+Software Development Engineer,Remitly Poland sp. z o.o.,20000.0,22800.0,PLN,,Kraków,Poland,False,2024-05-28
+Senior Java Developer,Avenga,28560.0,30240.0,PLN,Java,Warsaw,Poland,False,2024-05-28
+Lead Software Engineer,Amagi,26000.0,26000.0,PLN,,Łódź,Poland,True,2024-05-28
+Senior Java Engineer,Appfire,18300.0,25100.0,PLN,Java,Gdynia,Poland,True,2024-05-28
+Senior Node.js Developer,Codete,,,PLN,Node.js,Gdańsk,Poland,True,2022-03-29
+Senior Software Engineer (NodeJS),Proteus.Finance,,,PLN,NodeJS,Remote,,True,2022-03-29
+Senior Backend Node.js Developer,Adaptiq,,,PLN,Node.js,Remote,,True,2022-03-29
+Nodejs Developer,DevBrother,,,PLN,Node.js,Gdańsk,Poland,True,2022-03-29
+Node.js Engineer,Ringier Axel Springer Tech,,,PLN,Node.js,Kraków,Poland,True,2022-03-29
+Remote Senior/Principal Backend Node.js,PGS Software S.A.,,,PLN,Node.js,Gdańsk,Poland,True,2022-03-29
+Senior Python / Node.js developer,Cisco,,,PLN,Node.js,Remote,,True,2022-03-29
+"Remote Backend Developer (node.js, AWS)",ClearScale,,,PLN,node.js,Warszawa,Poland,True,2022-03-29
+Node.js Developer,iteo sp. z o.o.,,,PLN,Node.js,Katowice,Poland,True,2022-03-29
+Node.JS Developer,Avanade Poland,,,PLN,Node.JS,Wrocław,Poland,True,2022-03-29
+Node.js Developer,Untitled Kingdom,,,PLN,Node.js,Kraków,Poland,True,2022-03-29
+.NET Backend Developer,AVENGA,18480.0,23520.0,PLN,,Warszawa,Poland,True,2024-04-02
+Software Development Engineer,Remitly Poland sp. z o.o.,20000.0,23000.0,PLN,,Kraków,Poland,False,2024-04-02
+NodeJS Developer,Euvic S.A.,16800.0,25200.0,PLN,NodeJS,Gliwice,Poland,True,2024-04-02
+Senior Java Developer/ Fullstack Developer,apreel Sp. z o.o.,26880.0,29400.0,PLN,Java,Warszawa,Poland,False,2024-04-02
+Senior Backend Engineer,Adaptiq,6500.0,6800.0,USD,,Warsaw,Poland,True,2024-04-02
+Node.js Developer,SoftKraft Sp z o.o.,16800.0,20000.0,PLN,Node.js,Bielsko-Biała,Poland,True,2024-04-02
+Node.js Developer,Selleo Labs,10000.0,18000.0,PLN,Node.js,Bielsko - Biała,Poland,False,2024-04-02
+Senior Cloud Developer - Satalia,VML Enterprise Solutions,21000.0,26000.0,PLN,,Katowice,Poland,True,2024-04-02
+Cloud Developer - Satalia,VML Enterprise Solutions,14000.0,20000.0,PLN,,Katowice,Poland,True,2024-04-02
+Node.js Developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,15000.0,16000.0,PLN,Node.js,Tychy,Poland,True,2024-04-02
+Senior Node.js Engineer,Packhelp,16000.0,26000.0,PLN,Node.js,Warsaw,Poland,False,2022-04-26
+Remote Typescript Developer,Planbe Eco,12000.0,19000.0,PLN,Typescript,Warsaw,Poland,True,2022-04-26
+Remote Node.js Developer,Prowly,19000.0,25000.0,PLN,Node.js,Warsaw,Poland,True,2022-04-26
+Staff Backend Engineer,Ramp Network,30500.0,39500.0,PLN,,Warsaw,Poland,True,2022-04-26
+Node.js Technical Team Leader,Divante SA,20160.0,26880.0,PLN,Node.js,Wroclaw,Poland,True,2022-04-26
+Node.js Developer,IN Team,25200.0,33600.0,PLN,Node.js,Remote,,True,2022-04-26
+Backend Developer (Node.js),YooniQ solutions,15000.0,20000.0,PLN,Node.js,Kraków,Poland,True,2022-04-26
+Remote Node.js Developer (Senior),B-Connected,15000.0,21000.0,PLN,Node.js,Warsaw,Poland,True,2022-04-26
+Node/TypeScript developer,Codino,14000.0,19000.0,PLN,TypeScript,Warsaw,Poland,False,2022-04-26
+Node.js Developer,Devire Sp. z o.o.,17600.0,24000.0,PLN,Node.js,Katowice,Poland,True,2022-04-26
+Senior Backend Developer,BinaryCortex LLC,,,USD,,Bielsko - Biała,Poland,True,2023-10-14
+Back-end Developer,LETHE Jakub Chmielniak,,,USD,,Bielsko - Biała,Poland,True,2023-10-14
+"Software Developer (ICP, Node, TypeScript)",Devire Sp. z o.o.,,,USD,Node,Remote,,True,2023-10-14
+Backend Engineer,Rollup,,,USD,,Remote,,True,2023-10-14
+Senior Software Engineer,juucy,,,USD,,Warsaw,Poland,False,2023-10-14
+Junior Back End Developer,REFIX,,,USD,,Rzeszów,Poland,False,2023-10-14
+REMOTE Middle Node.js Developer,Valtech,,,USD,Node.js,Remote,,True,2023-10-14
+Senior Node.js Engineer (Printify),uSoftware,,,USD,Node.js,Kraków,Poland,True,2023-10-14
+Senior Node.js Backend Developer,Clurgo Sp. z o.o.,,,USD,Node.js,Warszawa,Poland,True,2023-10-14
+Remote Mid TypeScript Developer ( Node.js ),CKSource,,,USD,Node.js,Kraków,Poland,True,2023-10-14
+Senior Golang developer,Xenoss,,,USD,Golang,Wroclaw,Poland,True,2023-10-14
+Node.js Developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,15000.0,16000.0,PLN,Node.js,Tychy,Poland,True,2024-05-28
+Senior BackEnd Engineer,NewGMedia,4000.0,7000.0,USD,,Remote,,True,2024-05-28
+Lead Software Engineer,Amagi,26000.0,26000.0,PLN,,Łódź,Poland,True,2024-05-28
+Senior Java Engineer,Appfire,18300.0,25100.0,PLN,Java,Gdynia,Poland,True,2024-05-28
+Software .Net Developer,TeamQuest,24000.0,28000.0,PLN,.Net,Remote,,True,2024-05-28
+Software Engineer .Net,TeamQuest,23000.0,28000.0,PLN,.Net,Remote,,True,2024-05-28
+Senior Software Engineer,skyquest AG,26250.0,36750.0,PLN,,Remote,,True,2024-05-28
+IDE C# Engineer (Senior),VirtusLab,21000.0,27000.0,PLN,C#,Kielce,Poland,True,2024-05-28
+Backend Developer Node.js/TypeScript,Devire Sp. z o.o.,,,string,Node.js,string,,,2023-09-30
+Remote Mid TypeScript Developer ( Node.js ),CKSource,,,string,Node.js,Kraków,Poland,True,2023-09-30
+Senior Node.js / Tech Lead,Avenga,,,string,Node.js,string,,True,2023-09-30
+Remote Backend Developer (Node.js),Droids On Roids,,,string,Node.js,string,,True,2023-09-30
+REMOTE - Node.js Team Leader,Startup House,,,string,Node.js,Warszawa,Poland,True,2023-09-30
+Node.js Developer,CrustLab,,,string,Node.js,Kraków,Poland,,2023-09-30
+NodeJS Developer – Cloud,Sii Polska,,,string,Node.js,Białystok,Poland,,2023-09-30
+Senior Typescript Developer (part-time),Superdevs,,,string,TypeScript,string,,True,2023-09-30
+Node.js Developer,MUG Software,,,string,Node.js,Poznań,Poland,,2023-09-30
+Back-end Developer,LETHE Jakub Chmielniak,,,string,,Bielsko - Biała,Poland,,2023-09-30
+Backend Engineer,Rollup,,,string,,string,,True,2023-09-30
+.NET Developer,Britenet,21840.0,25200.0,PLN,.NET,Remote,,True,2023-07-18
+Remote Senior DevOps,RemoDevs,6500.0,7500.0,EUR,DevOps,Warsaw,Poland,False,2023-07-18
+API Management System Developer,Orange Polska,13000.0,17000.0,PLN,,Warsaw,Poland,False,2023-07-18
+Senior Node.js Engineer,Ringier Axel Springer Tech,15100.0,25200.0,PLN,Node.js,Kraków,Poland,False,2023-07-18
+IntelliJ Plugins Engineer,VirtusLab,21000.0,27000.0,PLN,,Rzeszów,Poland,False,2023-07-18
+Senior Cloud Engineer,Ework Group,26880.0,31920.0,PLN,Cloud,Copenhagen,,False,2023-07-18
+Senior Backend .Net Developer,Auctane,13000.0,21000.0,PLN,.Net,Zielona Góra,Poland,False,2023-07-18
+Senior Backend Engineer,Micromobility solutions sp. z o.o.,23000.0,30000.0,PLN,,Remote,,True,2023-07-18
+Remote Backend Software Developer,Kalepa,7000.0,9000.0,USD,,Warsaw,Poland,True,2023-07-18
+Lead Back-end JavaScript Developer,Klika Tech,22680.0,30240.0,PLN,JavaScript,Wrocław,Poland,False,2023-07-18
+Senior Python Developer (AI/ML/MLOps),Link Group,,,null,Python,null,,,2023-11-03
+Lead MLOps Engineer (Nvidia AI Stack Expert),SoftServe,,,null,null,Wrocław,Poland,True,2023-11-03
+MLOps Engineer,SoftServe,,,null,null,Wrocław,Poland,True,2023-11-03
+MLOps Engineer,YozmaTech,,,null,null,Warsaw,Poland,True,2023-11-03
+Senior ML (NLP) Engineer,Zowie,,,null,NLP,Kraków,Poland,True,2023-11-03
+ML (Python + NLP) Engineer,SFox,,,null,Python,null,,True,2023-11-03
+AI Engineer (Generative AI & NLP),Altimetrik Poland,,,null,NLP,Wrocław,Poland,True,2023-11-03
+ML Engineer Senior - Full Time,AI REV,,,null,null,null,,True,2023-11-03
+AI Engineer,Ness Solution Sp. z o. o.,,,null,null,null,,True,2023-11-03
+Technical Team Leader | ML/AI,Open Nexus sp. z o.o.,,,null,ML,Poznań,Poland,False,2023-11-03
+Python Developer - AI,Zone IT Sp. z o.o.,,,null,Python,Wrocław,Poland,False,2023-11-03
+Tech Lead (Python / Node),SoftKraft,19000.0,21840.0,PLN,Python,Bielsko-Biała,Poland,False,2024-12-11
+PHP Developer,Devire,11760.0,14280.0,PLN,PHP,Remote,,True,2024-12-11
+Software Developer (Node.js & Kubernetes),NEXAI Sp. z o.o.,15000.0,20000.0,PLN,Node.js,Poznań,Poland,True,2024-12-11
+Senior Golang Developer,Spyrosoft,25200.0,33600.0,PLN,Golang,Wrocław,Poland,True,2024-12-11
+Junior Backend Developer (Node.js),MasterBorn,6000.0,10000.0,PLN,Node.js,Wrocław,Poland,True,2024-12-11
+Backend Node.js Developer,Wingspan,5833.0,6458.0,USD,Node.js,Warsaw,Poland,False,2023-04-19
+Senior Backend Node.js Developer,Wingspan,7083.0,7708.0,USD,Node.js,Warsaw,Poland,False,2023-04-19
+Senior NodeJS backend developer,Rits Professional Services,25200.0,30240.0,PLN,NodeJS,Remote,,True,2023-04-19
+Remote Fullstack Developer (Java+React),Connectis_,27000.0,31000.0,PLN,Java+React,Warsaw,Poland,True,2023-04-19
+Computer Vision Dev + React | PL startup,From Poland With Dev,22500.0,27500.0,PLN,React,Kraków,Poland,True,2023-04-19
+Senior Node Engineer,Playbook Technologies,30000.0,42000.0,USD,Node,New York,United States,True,2023-04-19
+Medior Backend Engineer - Test & Release,Tulip Interfaces Kft,1000000.0,1500000.0,HUF,,Budapest,,False,2023-04-19
+C#/.NET Developer,Sollers Consulting,10000.0,16000.0,PLN,C#/.NET,Warsaw,Poland,False,2023-04-27
+Senior Backend Developer,BinaryCortex LLC,29000.0,36000.0,PLN,,Remote,,True,2023-04-27
+Remote Mid DevSecOps Engineer,HEXAWARE TECHNOLOGIES,25200.0,40320.0,PLN,DevOps,Warsaw,Poland,True,2023-04-27
+Remote Senior DevSecOps Engineer,HEXAWARE TECHNOLOGIES,33600.0,40320.0,PLN,DevOps,Warsaw,Poland,True,2023-04-27
+Senior Node Engineer,Playbook Technologies,30000.0,42000.0,USD,Node,New York,United States,True,2023-04-27
+Szenior .NET fejlesztő,Collective Consulting,1800000.0,1900000.0,HUF,.NET,Budapest,Hungary,False,2023-04-27
+Senior Golang Developer,Link Group,21000.0,23500.0,PLN,Golang,Remote,,True,2024-08-16
+Full-stack AngularJS developer,Matrix Global Services,5500.0,7000.0,EUR,AngularJS,Remote,,True,2024-01-23
+PHP Backend Developer,Profitroom,12500.0,17000.0,PLN,PHP,Poznan,Poland,False,2024-01-23
+Senior Backend Developer,Mindbox S.A.,31500.0,39900.0,PLN,,Remote,,True,2024-01-23
+.NET Developer with Docker / Kubernetes,AVENGA,20160.0,23520.0,PLN,.NET,Warszawa,Poland,False,2024-01-23
+Java Engineer - Remote (f/m/x),AUTO1 Polska Sp.z o.o.,12000.0,17000.0,PLN,Java,Remote,,True,2024-01-23
+Senior Node.js Developer,Startup House,16800.0,25200.0,PLN,Node.js,Warszawa,Poland,False,2024-01-23
+Senior Backend Node.js Developer,Strategic Staffing Solutions,16000.0,26000.0,PLN,Node.js,Remote,,True,2024-01-23
+"Senior Backend Engineer, TypeScript / Go",Showpad,25000.0,30000.0,PLN,TypeScript,Wroclaw,Poland,False,2024-01-23
+Staff Software Development Engineer,Apptio,28000.0,35000.0,PLN,,Kraków,Poland,False,2024-01-23
+Principal Backend Developer Remote (Node.js),Hyland,24000.0,28800.0,PLN,Node.js,Katowice,Poland,True,2024-01-23
+Senior Ruby Engineer,AVENGA,27300.0,29300.0,PLN,Ruby,Wrocław,Poland,True,2023-09-20
+Senior Node.js / Tech Lead,Avenga,23520.0,28560.0,PLN,Node.js,Remote,,True,2023-09-20
+Principal DevOps Engineer,spaceOS (by Equiem),29000.0,35000.0,PLN,DevOps,Warsaw,Poland,False,2023-09-20
+.NET Developer,Objectivity,15960.0,21840.0,PLN,.NET,Wrocław,Poland,True,2023-09-20
+Senior .NET Developer,Objectivity,20160.0,27720.0,PLN,.NET,Wrocław,Poland,True,2023-09-20
+Remote Senior DevOps,RemoDevs,6500.0,7500.0,EUR,DevOps,Warsaw,Poland,True,2023-09-20
+Back-End/ Full-Stack Developer with Node.js,umlaut Sp. z o.o.,12600.0,22680.0,PLN,Node.js,Szczecin,Poland,False,2023-09-20
+Backend Developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,17000.0,20000.0,PLN,Backend,Tychy,Poland,False,2023-09-20
+Cloud Engineer,Ework Group,5040.0,7560.0,EUR,Cloud,Warsaw,Poland,True,2023-09-20
+Senior Backend PHP Developer Remote,Superdevs,23520.0,28560.0,PLN,PHP,Remote,,True,2023-09-20
+Senior Backend Engineer (Node.js),Clurgo Sp. z o.o.,23520.0,26880.0,PLN,Node.js,Warszawa,Poland,,2024-07-27
+Senior Backend Developer,Mindbox S.A.,31500.0,39900.0,PLN,,Remote,,True,2024-07-27
+Junior .NET Developer,Avenga,13440.0,16800.0,PLN,.NET,Kraków,Poland,False,2024-07-27
+Senior Backend Developer (Java/Kotlin),Bright Inventions,22680.0,27216.0,PLN,Java/Kotlin,Gdańsk,Poland,False,2024-07-27
+Senior Node.js Developer,SKARB,4000.0,7000.0,EUR,Node.js,Limassol,Cyprus,False,2024-07-27
+"Senior Software Developer (Laravel, PHP)",American Contract Bridge League,7500.0,8000.0,USD,"Laravel, PHP",Remote,,True,2024-07-27
+Senior PHP Developer,Blau Direkt Poland,16000.0,23000.0,PLN,PHP,Kraków,Poland,,2024-07-27
+Senior C++ Engineer,SmartBear,21000.0,24000.0,PLN,C++,Remote,,True,2023-08-16
+Senior Java Developer,ALTEN Polska,23520.0,29400.0,PLN,Java,Kraków,Poland,True,2023-08-16
+Senior Backend Engineer/Architect,Lite e-Commerce,24000.0,30000.0,PLN,,Warsaw,Poland,True,2023-08-16
+Node.js Developer,CrustLab,20000.0,28500.0,PLN,Node.js,Kraków,Poland,True,2023-08-16
+Node Developer,LEOCODE,18480.0,30240.0,PLN,typescript,Katowice,Poland,,2022-10-19
+Node.js Dev / Fullstack Node.js + React,Euvic,13440.0,25200.0,PLN,Node.js,Remote,,True,2022-10-19
+Mid NodeJS/Fullstack Developer,Kingit sp. z o.o.,15000.0,25000.0,PLN,NodeJS,Warszawa,Poland,,2022-10-19
+Remote MacOS Architect ( Expert ),HARMAN Connected Services,28000.0,34000.0,PLN,MacOS,Remote,,True,2023-11-03
+Remote Senior MacOS Engineer,HARMAN Connected Services,20000.0,27000.0,PLN,MacOS,Łódź,Poland,True,2023-11-03
+Remote Java Developer,Objectivity - part of Accenture,15960.0,26880.0,PLN,Java,Gdańsk,Poland,True,2023-11-03
+Senior Software Engineer - Good Lood,AVSystem,20000.0,30000.0,PLN,,Kraków,Poland,False,2023-11-03
+Junior .NET Developer,AXA IT Solutions,10080.0,16800.0,PLN,.NET,Warszawa,Poland,False,2023-11-03
+Remote Senior Node.js Developer AWS,ClearScale,5880.0,8400.0,USD,Node.js,Warszawa,Poland,True,2023-11-03
+Remote Lead PHP developer,Connectis_,22000.0,28500.0,PLN,PHP,Warszawa,Poland,True,2023-11-03
+Back-End Developer (Node.js),oroom.one,6000.0,10000.0,PLN,Node.js,Remote,,True,2023-11-03
+Senior Backend Firebase Developer (part-time),Superdevs,25200.0,33600.0,PLN,Firebase,Remote,,True,2023-11-03
+JVM Tooling Engineer (Senior),VirtusLab,21000.0,27000.0,PLN,JVM,Cracow,Poland,True,2023-11-03
+Senior Typescript Developer,Superdevs,,,USD,Typescript,Kraków,Poland,True,2023-10-05
+Remote Mid TypeScript Developer,CKSource,,,USD,Node.js,Kraków,Poland,True,2023-10-05
+Backend Developer Node.js/TypeScript,Devire Sp. z o.o.,,,USD,Node.js,Remote,,True,2023-10-05
+Senior .NET Developer,Scale sp. z o.o.,,,USD,.NET,Remote,,True,2023-10-05
+Back-end Developer,LETHE Jakub Chmielniak,,,USD,,Bielsko - Biała,Poland,True,2023-10-05
+Backend Engineer,Rollup,,,USD,,Remote,,True,2023-10-05
+Junior Back End Developer,REFIX,,,USD,,Rzeszów,Poland,False,2023-10-05
+Senior Ruby Engineer,AVENGA,,,USD,Ruby,Wrocław,Poland,True,2023-10-05
+Senior .NET Developer,ASTEK Polska,,,USD,.NET,Remote,,True,2023-10-05
+Senior Golang developer,Xenoss,,,USD,Golang,Wroclaw,Poland,True,2023-10-05
+Remote PHP developer,Contina Sp. z o.o.,,,USD,PHP,Katowice,Poland,True,2023-10-05
+Senior Ruby Engineer,AVENGA,27300.0,29300.0,PLN,Ruby,Wrocław,Poland,True,2023-09-13
+Senior Node.js Engineer,Ringier Axel Springer Tech,15100.0,25200.0,PLN,Node.js,Kraków,Poland,False,2023-09-13
+Senior DevOps Engineer,EPAM,21100.0,24100.0,PLN,DevOps,Remote,,True,2023-09-13
+Senior Java Engineer,Branchspace,21000.0,27300.0,PLN,Java,Kraków,Poland,False,2023-09-13
+Principal Java Developer,Hitachi Energy,19000.0,28000.0,PLN,Java,Kraków,Poland,False,2023-09-13
+Senior Typescript Developer (part-time),Superdevs,25200.0,33600.0,PLN,Typescript,Remote,,True,2023-09-13
+Senior Software Engineer,OPSWAT,1300000.0,1850000.0,HUF,,Veszprém,Hungary,False,2023-09-13
+DevOps Engineer,Get Bridge,1200000.0,1600000.0,HUF,DevOps,Budapest,Hungary,False,2023-09-13
+Sr Software Engineer / Sr Java Developer,Instructure Hungary Kft,1500000.0,2200000.0,HUF,Java,Budapest,Hungary,False,2023-09-13
+Senior Backend Engineer,Adaptiq,20000.0,,PLN,,Warsaw,Poland,True,2024-04-16
+Senior Software Engineer (Threejs / Javascript),HERE Technologies,6500.0,6800.0,USD,Javascript,Kraków,Poland,True,2024-04-16
+Backend Engineer,Engenious,25200.0,31920.0,PLN,,Kraków,Poland,True,2024-04-16
+Senior Backend Developer,Top Tier Authentics,4500.0,6500.0,USD,,Remote,,True,2024-04-16
+Senior Backend Node.js Engineer,Appfire,18300.0,25100.0,PLN,Node.js,Warszawa,Poland,True,2024-04-16
+Senior Software Engineer,Appfire,18300.0,25100.0,PLN,,Warszawa,Poland,True,2024-04-16
+Senior backend developer (Node.js),AgentTrainer,25200.0,30240.0,PLN,Node.js,Warszawa,Poland,True,2024-04-16
+Senior Node.js Backend Developer,Clurgo Sp. z o.o.,23520.0,27720.0,PLN,Node.js,Warszawa,Poland,True,2023-10-15
+Remote Senior Backend Java Developer,Shift4,25000.0,32000.0,PLN,Java,Wrocław,Poland,True,2023-10-15
+Remote Senior GoLang Developer,Objectivity - part of Accenture,21840.0,27720.0,PLN,GoLang,Gdańsk,Poland,True,2023-10-15
+Senior Node.js Engineer (Printify),uSoftware,5000.0,8000.0,USD,Node.js,Kraków,Poland,True,2023-10-15
+Back-end Developer,LETHE Jakub Chmielniak,17000.0,20000.0,PLN,,Bielsko - Biała,Poland,True,2023-10-15
+Remote Senior Node.js Developer AWS,ClearScale,5880.0,8400.0,USD,Node.js,Warszawa,Poland,True,2023-10-15
+Backend Engineer,Rollup,6250.0,7500.0,USD,,Remote,,True,2023-10-15
+Cloud Engineer,Ework Group,5040.0,7560.0,EUR,,Warszawa,Poland,True,2023-10-15
+Senior Backend Developer,BinaryCortex LLC,25000.0,32000.0,PLN,,Remote,,True,2023-10-15
+REMOTE - Node.js Team Leader,Startup House,18800.0,27200.0,PLN,Node.js,Warszawa,Poland,True,2023-10-15
+DevOps Engineer III,Box Inc.,18000.0,25500.0,PLN,,Warsaw,Poland,False,2024-08-20
+Senior Backend Engineer (Node.js),Clurgo Sp. z o.o.,23520.0,26880.0,PLN,Node.js,Warszawa,Poland,True,2024-08-20
+Senior Golang Developer - Remote,Link Group,21000.0,23500.0,PLN,Golang,Remote,,True,2024-08-20
+"Senior Software Developer (Laravel, PHP)",American Contract Bridge League,7500.0,8000.0,USD,PHP,Remote,,True,2024-08-20
+Senior PHP Developer,Blau Direkt Poland,16000.0,23000.0,PLN,PHP,Kraków,Poland,True,2024-08-20
+DevOps Engineer,ESET,13000.0,16000.0,PLN,,Kraków,Poland,False,2024-08-20
+Senior Software Engineer,Kontakt.io,25500.0,29000.0,PLN,,Kraków,Poland,True,2024-08-20
+Senior .Net Developer,DevCity sp. z o.o.,22000.0,28000.0,PLN,.Net,Kraków,Poland,True,2024-08-20
+Backend Engineer,Snowflake,20000.0,35000.0,PLN,,Warsaw,Poland,False,2022-12-04
+Regular Java Developer,e-point SA,13020.0,19530.0,PLN,Java,Warsaw,Poland,True,2022-12-04
+Senior POS / AX Developer,Link Group,25200.0,30240.0,PLN,,Warsaw,Poland,False,2022-12-04
+Staff Backend Engineer,Ramp Network,30500.0,39500.0,PLN,,Warsaw,Poland,True,2022-12-04
+Mid-level Backend Engineer,Ramp Network,10500.0,16000.0,PLN,,Warsaw,Poland,True,2022-12-04
+Senior Backend Engineer,Ramp Network,22500.0,28000.0,PLN,,Warsaw,Poland,True,2022-12-04
+Remote Senior Backend Elixir Developer,Fresha,27000.0,35000.0,PLN,Elixir,Warsaw,Poland,True,2022-12-04
+Remote Backend Cloud Software Engineer,Elmodis,15000.0,28000.0,PLN,,Kraków,Poland,True,2022-12-04
+Remote Node.js Backend Developer,Flip,20160.0,36120.0,PLN,Node.js,Warsaw,Poland,True,2022-12-04
+Remote Senior Node.js Engineer,Idego Group Sp. z o.o.,25000.0,32000.0,PLN,Node.js,Gdynia,Poland,True,2022-12-04
+Senior NodeJS TypeScript Developer,Digital Seals GmbH,,,string,,string,,,2022-03-29
+Software Engineer,ShiftKey,,,string,,Warszawa,string,True,2022-03-29
+Team Lead Software Engineer,AUTO1 Group,,,string,,Katowice,string,True,2022-03-29
+Software Developer,ImpactDev.io,,,string,,string,,True,2022-03-29
+Senior Software Developer,ImpactDev.io,,,string,,string,,True,2022-03-29
+Software Engineer,Wunderman Thompson Technology,,,string,,string,,True,2022-03-29
+Senior Software Developer,GIAP,,,string,,Lublin,string,True,2022-03-29
+Backend Developer,UpLink,,,string,,Porto,string,True,2022-03-29
+Backend Developer,MyLed,,,string,,"Krak"",
+    ""primary_location_country"": ""string",string,False,2022-03-29
+Software Engineer,HARMAN Connected Services,,,string,,string,,False,2022-03-29
+Software Developer,Vescom Sp. z o. o. Sp. k.,,,string,,string,,False,2022-03-29
+Lead Java Software Engineer,SoftServe,19000.0,27000.0,PLN,Java,Wrocław,Poland,True,2024-07-06
+Java Back-end Developer,LETHE Jakub Chmielniak,17000.0,20000.0,PLN,Java,Bielsko - Biała,Poland,True,2024-07-06
+Senior Node.js Engineer,Printify,,,string,Node.js,Kraków,,,2023-10-14
+Lead Node.js Developer,Intellias,,,string,Node.js,Kraków,Poland,False,2023-10-14
+Senior Node.js Backend Developer,Clurgo Sp. z o.o.,,,string,Node.js,Warszawa,Poland,True,2023-10-14
+Senior PHP Engineer,Printify,,,string,PHP,Kraków,Poland,True,2023-10-14
+Remote Mid TypeScript Developer,CKSource,,,string,Node.js,Kraków,Poland,True,2023-10-14
+Engineering Manager,Printify,,,string,,Kraków,Poland,True,2023-10-14
+Junior Back-End Developer,KAPSYS Pte. Ltd,,,string,Node.js,Remote,,True,2023-10-14
+REMOTE - Node.js Team Leader,Startup House,,,string,Node.js,Warszawa,Poland,True,2023-10-14
+Software Developer,Devire Sp. z o.o.,,,string,Node.js,Remote,,True,2023-10-14
+Backend Engineer,Rollup,,,string,,Remote,,True,2023-10-14
+Senior Backend Developer,BinaryCortex LLC,,,string,,Remote,,True,2023-10-14
+Senior Node.js Developer,PGS Software S.A.,15000.0,27000.0,PLN,Node.js,Wrocław,Poland,True,2022-05-17
+Middle Node.js Developer,PGS Software S.A.,11000.0,20000.0,PLN,Node.js,Wrocław,Poland,True,2022-05-17
+.NET Developer,Sollers Consulting,9500.0,18000.0,PLN,.NET,Warszawa,Poland,False,2022-05-17
+Sharepoint Developer,Helmes-Solbeg,12000.0,20500.0,PLN,Sharepoint,Warsaw,Poland,False,2022-05-17
+Senior/Principal Backend Node.js,PGS Software S.A.,15000.0,27000.0,PLN,Node.js,Gdańsk,Poland,True,2022-05-17
+Senior Node.js Engineer,Idego Group Sp. z o.o.,5000.0,6500.0,EUR,Node.js,Gdynia,Poland,True,2022-05-17
+Node.js Developer (Senior),B-Connected,18000.0,26000.0,PLN,Node.js,Warszwa,Poland,True,2022-05-17
+Regular Node.js Backend Engineer,Laminar Global,17000.0,30000.0,PLN,Node.js,Wrocław,Poland,False,2022-05-17
+Node.js Engineer,Link Group,23100.0,33600.0,PLN,Node.js,Warszawa,Poland,True,2022-05-17
+Backend Engineer,Fresha,15000.0,30000.0,PLN,Backend,Warsaw,Poland,True,2022-05-17
+Senior Fullstack Engineer,Equiem,,,PLN,,Warszawa,Poland,True,2023-11-03
+Full-Stack JS Developer,MindK,,,PLN,JS,Warszawa,Poland,True,2023-11-03
+Senior FullStack Developer,Dell Technologies,,,PLN,,Warszawa,Poland,True,2023-11-03
+Senior Fullstack Developer,AVENGA,,,PLN,,Warszawa,Poland,True,2023-11-03
+Senior FullStack Developer / Tech Lead,ITDS,,,PLN,,Warszawa,Poland,False,2023-11-03
+FullStack Developer,Avenga,,,PLN,,Warszawa,Poland,False,2023-11-03
+FullStack Developer,AVENGA,,,PLN,,Timisoara,Romania,False,2023-11-03
+Senior Fullstack Developer,Avenga,,,PLN,,Warszawa,Poland,False,2023-11-03
+Full Stack Developer,ASTEK Polska,,,PLN,,Wrocław,Poland,False,2023-11-03
+FullStack Developer,Avenga,,,PLN,,Warszawa,Poland,False,2023-11-03
+Full-stack AngularJS developer,Matrix Global Services,5500.0,7000.0,EUR,,Remote,,True,2024-01-06
+DevOps Engineer,Hitachi Energy,15000.0,23000.0,PLN,,Kraków,Poland,False,2024-01-06
+Remote Mid Backend Engineer,Nextbike Polska S.A w Restrukturyzacji,13000.0,19000.0,PLN,,Warszawa,Poland,True,2022-04-16
+Lead Back-End Developer (Node.js),Akvelon,5500.0,7000.0,USD,Node.js,Warszawa,Poland,True,2022-04-16
+Remote Senior/Principal Backend Node.js,PGS Software S.A.,15000.0,27000.0,PLN,Node.js,Gdańsk,Poland,True,2022-04-16
+Remote Node.js Developer,Simply Talented,22000.0,30000.0,PLN,Node.js,Remote,,True,2022-04-16
+Strong Middle / Senior Node.js Developer,Brightech,3000.0,4000.0,USD,Node.js,Wrocław,Poland,False,2022-04-16
+Senior Node Engineer,Shopmonkey,5000.0,7500.0,USD,Node.js,Remote,,True,2022-04-16
+Remote Mid Backend Engineer,Nextbike Polska S.A w Restrukturyzacji,13000.0,19000.0,PLN,,Warszawa,Poland,True,2022-04-16
+Senior Node.js Engineer,Packhelp,16000.0,26000.0,PLN,Node.js,Warszawa,Poland,False,2022-04-16
+Node.js Technical Team Leader,Divante SA,20160.0,26880.0,PLN,Node.js,Wrocław,Poland,True,2022-04-16
+Senior Backend Engineer,Akeero,5833.0,6666.0,EUR,,Remote,,True,2022-04-16
+Senior Backend Engineer,Adaptiq,6500.0,6800.0,USD,,Warsaw,Poland,True,2024-05-14
+Senior Java Developer,AVENGA,26880.0,28560.0,PLN,Java,Remote,,True,2024-05-14
+Remote Senior Backend Java Developer,Shift4,25000.0,32000.0,PLN,Java,Wrocław,Poland,True,2024-05-14
+Principal Software Engineer (Java / Kotlin/ AAOSP),HERE Technologies,33600.0,42000.0,PLN,Java,Kraków,Poland,True,2024-05-14
+Senior DevOps Engineer - Core Banking Area,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,12000.0,22000.0,PLN,DevOps,Warszawa,Poland,False,2024-05-14
+Mid Software / Cloud Engineer with Golang,CodiLime,12750.0,18000.0,PLN,Golang,Warsaw,Poland,True,2024-05-14
+Mid Devops Engineer with Terraform,CodiLime,14000.0,19600.0,PLN,DevOps,Warsaw,Poland,True,2024-05-14
+Backend AWS Engineer,Grape Up,16000.0,22100.0,PLN,AWS,Kraków,Poland,True,2024-05-14
+Senior Backend Engineer (Growth - Node),Zowie,20000.0,30000.0,PLN,Node,Warszawa,Poland,False,2024-05-14
+Software .Net Developer,TeamQuest,24000.0,28000.0,PLN,.Net,Remote,,True,2024-05-14
+Backend Node.js Engineer,Appfire,17000.0,24500.0,PLN,Node.js,Warsaw,Poland,False,2023-08-19
+React Szoftverfejlesztő (Mid),Webtölcsér,600000.0,900000.0,HUF,React,Budapest,Hungary,False,2023-08-19
+Senior Software Engineer,Get Bridge,1400000.0,1900000.0,HUF,,Budapest,Hungary,False,2023-08-19
+Senior Node.js Developer,Hays Hungary,1200000.0,1800000.0,HUF,Node.js,Budapest,Hungary,False,2023-08-19
+Senior Cloud Developer,Satalia,21000.0,26000.0,PLN,,Katowice,Poland,True,2024-03-20
+Cloud Developer,Satalia,14000.0,20000.0,PLN,,Katowice,Poland,True,2024-03-20
+Software Development Team Leader,Profitroom,18400.0,23000.0,PLN,,Poznan,Poland,True,2024-03-20
+Senior Node.js Engineer,Rebbix,4500.0,6000.0,USD,Node.js,Remote,,True,2024-03-20
+Java Backend Developer,Orange Polska,13000.0,18000.0,PLN,Java,Warsaw,Poland,True,2024-03-20
+Node.js Developer,SoftKraft Sp z o.o.,16800.0,20000.0,PLN,Node.js,Bielsko-Biała,Poland,True,2024-03-20
+Senior Kotlin/Java Software Developer,Hitachi Energy,12000.0,18000.0,PLN,Kotlin/Java,Kraków,Poland,False,2024-03-20
+Remote DevOps Engineer,RTB House,25000.0,30000.0,PLN,DevOps,Warsaw,Poland,True,2024-03-20
+LEAD NODE.JS/PHP ENGINEER,N-iX,5000.0,5600.0,USD,Node.js,Wrocław,Poland,True,2024-03-20
+Blockchain Developer,Cerebellum Network In,8333.0,10000.0,USD,Blockchain,Warsaw,Poland,False,2024-03-20
+C#/.NET Developer,Sollers Consulting,7400.0,11500.0,PLN,C#/.NET,Warszawa,Poland,False,2022-07-01
+Senior Backend Dev (Firebase&TypeScript),Cognitum Services SA,20800.0,28800.0,PLN,TypeScript,Remote,,True,2022-07-01
+Remote Senior Backend Engineer,Nextbike Polska S.A w Restrukturyzacji,20000.0,30000.0,PLN,,Warszawa,Poland,True,2022-07-01
+Mid Software Engineer - Remote,Intergiro,13600.0,19500.0,PLN,,Remote,,True,2022-07-01
+Junior C#/.NET Developer,Sollers Consulting,7400.0,11500.0,PLN,C#/.NET,Warszawa,Poland,False,2022-07-01
+Node Developer,ANT,16000.0,21000.0,PLN,Node.js,Kraków,Poland,False,2022-07-01
+Lead Senior Java Developer,e-point SA,25200.0,31500.0,PLN,Java,Warsaw,Poland,True,2022-07-01
+Back-End Engineer,Fresha,15000.0,30000.0,PLN,,Warsaw,Poland,True,2022-07-01
+Node.js Backend Engineer,IncepTech Kft.,900000.0,1800000.0,HUF,Node.js,Budapest,Hungary,False,2022-07-01
+Senior Dynamics 365 Developer,Predica Sp. z o.o.,16800.0,31080.0,PLN,,Warszawa,Poland,True,2023-09-07
+Lider Backend PHP - Remote,Emotivo,12000.0,17000.0,PLN,PHP,puławy,Poland,True,2023-09-07
+Senior Node.js / Tech Lead,Avenga,23520.0,28560.0,PLN,Node.js,Remote,,True,2023-09-07
+.NET Developer,Objectivity,15960.0,21840.0,PLN,.NET,Wrocław,Poland,True,2023-09-07
+Senior .NET Developer,Objectivity,20160.0,27720.0,PLN,.NET,Wrocław,Poland,True,2023-09-07
+Backend Developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,17000.0,20000.0,PLN,,Tychy,Poland,False,2023-09-07
+Senior Software Engineer - Good Lood,AVSystem,20000.0,30000.0,PLN,,Kraków,Poland,False,2023-09-07
+Node.js Developer,CrustLab,20000.0,28500.0,PLN,Node.js,Kraków,Poland,True,2023-09-07
+Azure DevOps Engineer,Hays Poland,16000.0,25000.0,PLN,Azure DevOps,Gdańsk,Poland,False,2023-09-07
+Remote Node.js Developer AWS,ClearScale,5880.0,7560.0,USD,Node.js,Warszawa,Poland,True,2023-09-07
+Node.js Developer,MUG Software,8000.0,16000.0,PLN,Node.js,Poznań,Poland,False,2024-03-05
+DevOps Engineer,Celadon,8000.0,12000.0,PLN,DevOps,Remote,,True,2024-03-05
+Java Lead Developer with German - CN Stack,Reply Polska,23184.0,29400.0,PLN,Java,Katowice,Poland,False,2024-03-05
+Java Developer with German - Cloud Native Stack,Reply Polska,9000.0,16000.0,PLN,Java,Katowice,Poland,False,2024-03-05
+Java Lead Developer - Cloud Native Stack,Reply Polska,23184.0,29400.0,PLN,Java,Katowice,Poland,False,2024-03-05
+Mid/Senior Azure Cloud Engineer,Reply Polska,13000.0,22000.0,PLN,Azure,Katowice,Poland,False,2024-03-05
+Python Developer,EXATEL,15000.0,18000.0,PLN,Python,Warszawa,Poland,True,2024-03-05
+Mid DevOps/ SecOps Engineer,Zebra Technologies,10000.0,14000.0,PLN,DevOps,Gliwice,Poland,False,2024-03-05
+Junior DevOps/ SecOps Engineer,Zebra Technologies,8000.0,12000.0,PLN,DevOps,Gliwice,Poland,False,2024-03-05
+Remote Senior .NET Developer,Astrokyon,20000.0,26000.0,PLN,.NET,Kraków,Poland,True,2024-03-05
+Senior Node.js Backend Developer,Clurgo Sp. z o.o.,23520.0,27720.0,PLN,Node.js,Warszawa,Poland,True,2023-09-12
+Senior Java Developer,GoSolve,5600.0,5900.0,USD,Java,Warsaw,Poland,True,2023-09-12
+Senior Ruby Engineer,AVENGA,27300.0,29300.0,PLN,Ruby,Wrocław,Poland,True,2023-09-12
+Backend Node.js Engineer,Appfire,17000.0,24500.0,PLN,Node.js,Warsaw,Poland,True,2023-09-12
+Lider Backend PHP - Remote,Emotivo,12000.0,17000.0,PLN,PHP,puławy,Poland,True,2023-09-12
+Remote Node.js Developer AWS,ClearScale,5880.0,7560.0,USD,Node.js,Warszawa,Poland,True,2023-09-12
+Senior Node.js Developer / Backend,UN7,22000.0,33000.0,PLN,Node.js,Warszawa,Poland,True,2023-09-12
+".Net Developer (Remote, UK Company)",able.tech,21500.0,25000.0,PLN,.Net,available remotely,,True,2023-09-12
+REMOTE - Back-end Team Leader,Startup House,18800.0,27200.0,PLN,,Warszawa,Poland,True,2023-09-12
+Senior Backend PHP Developer Remote,Superdevs,23520.0,28560.0,PLN,PHP,available remotely,,True,2023-09-12
+Python Team Leader/Architector,Pivotics,5000.0,6500.0,USD,Python,Wroclaw,Poland,True,2024-07-15
+Senior Backend Developer,Aspire Systems Poland,13000.0,20000.0,PLN,,Gdańsk,Poland,True,2024-07-15
+Remote Senior Node.JS Backend Developer,CKSource,22000.0,30000.0,PLN,Node.JS,Warsaw,Poland,True,2024-07-15
+Lead .NET Developer,Superdevs,25200.0,31920.0,PLN,.NET,Remote,,True,2024-07-15
+Java Back-end Developer,LETHE Jakub Chmielniak,17000.0,20000.0,PLN,Java,Bielsko - Biała,Poland,True,2024-07-15
+Senior Node.js Developer,Startup Development House,16800.0,25200.0,PLN,Node.js,Warsaw,Poland,True,2022-10-22
+Senior Software Engineer (Threejs / Javascript),HERE Technologies,25200.0,33600.0,PLN,Threejs / Javascript,Kraków,Poland,True,2024-04-30
+Solution Architect,RemoDevs,32000.0,35000.0,PLN,,Warszawa,Poland,True,2024-04-30
+Senior Data Engineer,Showpad,22000.0,35000.0,PLN,,Wroclaw,Poland,True,2024-04-30
+Senior Backend Developer,Top Tier Authentics,4500.0,6500.0,USD,,Remote,,True,2024-04-30
+Remote Middle Backend Node.js Developer,Shelf,3000.0,5000.0,USD,Node.js,Wrocław,Poland,True,2024-04-30
+Senior Software Engineer,Appfire,18300.0,25100.0,PLN,,Warszawa,Poland,True,2024-04-30
+Senior Backend Engineer,Adaptiq,6500.0,6800.0,USD,,Warsaw,Poland,True,2024-04-30
+Software Development Engineer,Remitly Poland sp. z o.o.,20000.0,23000.0,PLN,,Kraków,Poland,False,2024-04-30
+Backend Node.js Engineer (remote),Appfire,13500.0,18000.0,PLN,Node.js,Trójmiasto,Poland,True,2024-04-30
+Principal Software Engineer (Java / Kotlin/ AAOSP),HERE Technologies,33600.0,42000.0,PLN,Java / Kotlin/ AAOSP,Kraków,Poland,True,2024-04-30
+Senior NodeJS Backend Developer,GFT Poland,20160.0,26040.0,PLN,Node.js,Lodz,Poland,False,2023-07-11
+.NET Developer,Britenet,21840.0,25200.0,PLN,.NET,Remote,,True,2023-07-11
+API Management System Developer,Orange Polska,13000.0,17000.0,PLN,,Warsaw,Poland,False,2023-07-11
+Senior Cloud Engineer,Ework Group,26880.0,31920.0,PLN,Cloud,Copenhagen,,False,2023-07-11
+Remote Senior DevOps,RemoDevs,6500.0,7500.0,EUR,DevOps,Warsaw,Poland,True,2023-07-11
+Backend Node.js Engineer (remote),Appfire,13000.0,20000.0,PLN,Node.js,Warsaw,Poland,True,2023-07-11
+Node.js Backend Developer,Xebia,15000.0,22500.0,PLN,Node.js,Wroclaw,Poland,True,2023-07-11
+Backend .NET Developer (remote),Appfire,13000.0,20000.0,PLN,.NET,Warsaw,Poland,True,2023-07-11
+Java Developer,Bravura Solutions Polska Sp. z o.o.,20160.0,25200.0,PLN,Java,Warsaw,Poland,True,2023-07-11
+Senior Typescript Developer (part-time),Superdevs,25200.0,33600.0,PLN,Typescript,Remote,,True,2023-07-11
+"Senior Software Engineer, Platform (Node)",Speechify,5000.0,10000.0,USD,Node,Remote,,True,2024-09-03
+Software Development Engineer,Remitly Poland sp. z o.o.,20000.0,22800.0,PLN,,Kraków,Poland,False,2024-09-03
+Software Development Engineer MarTech Team,Remitly Poland sp. z o.o.,20000.0,22800.0,PLN,,Kraków,Poland,False,2024-09-03
+Sn Backend Developer,Adaptiq,6500.0,6800.0,USD,,Warsaw,Poland,True,2024-09-03
+"Software Engineer III, Cloud Native",Box Inc.,22000.0,27000.0,PLN,,Warszawa,Poland,False,2024-09-03
+Golang Developer,Vier,5000.0,6000.0,EUR,Golang,Poznań,Poland,False,2024-09-03
+Senior Golang Developer - Remote,Link Group,21000.0,23500.0,PLN,Golang,Remote,,True,2024-09-03
+Mid/Senior Azure Cloud Engineer,Reply Polska,13000.0,22000.0,PLN,,Katowice,Poland,False,2024-09-03
+"Software Engineer, Backend",Asana,25667.0,32667.0,PLN,,Warszawa,Poland,False,2024-09-03
+Senior Back-end Engineer (Node.js),Swing Development,24000.0,30000.0,PLN,Node.js,Warszawa,Poland,True,2024-09-03
+Remote Senior Node.js Developer,Cleeng sp.z.o.o,18000.0,26000.0,PLN,Node.js,Poznań,Poland,True,2023-06-09
+Remote Senior Node.JS Backend Developer,CKSource,22000.0,30000.0,PLN,Node.JS,Warsaw,Poland,True,2024-07-30
+Remote Mid / Senior .NET Developer,Aspire Systems Poland,13000.0,20000.0,PLN,.NET,Gdańsk,Poland,True,2024-07-30
+Junior/Mid Software Engineer | High Load Platform,Adform Sp. z o.o.,17425.0,30800.0,PLN,,Warszawa,Poland,False,2024-07-30
+Site Reliability Engineer - SRE,NATEK Poland,115500.0,115500.0,CZK,,Prague,,False,2024-07-30
+"Senior Software Engineer, Platform (Node)",Speechify,5000.0,10000.0,USD,Node,Remote,,True,2024-07-30
+Senior Backend Engineer (Node.js),Clurgo Sp. z o.o.,23520.0,26880.0,PLN,Node.js,Warszawa,Poland,True,2024-07-30
+Traffic Data Analyst,RTB House,10000.0,15000.0,PLN,,Remote,,True,2024-07-30
+Mid/Senior Software Engineer with TypeScript,CodiLime,16500.0,27500.0,PLN,TypeScript,Warsaw,Poland,True,2024-07-30
+"Senior Software Developer (Laravel, PHP)",American Contract Bridge League,7500.0,8000.0,USD,PHP,Remote,,True,2024-07-30
+Big Data Engineer (with Palantir Foundry),N-iX,5100.0,7000.0,USD,,Kraków,Poland,True,2024-07-30
+Lead Back-End Developer (Node.js),Akvelon,5500.0,7000.0,USD,Node.js,Warsaw,Poland,True,2022-05-03
+Remote Senior/Principal Backend Node.js,PGS Software S.A.,15000.0,27000.0,PLN,Node.js,Gdańsk,Poland,True,2022-05-03
+Strong Middle / Senior Node.js Developer,Brightech,3000.0,4700.0,USD,Node.js,Wrocław,Poland,False,2022-05-03
+Senior Node.js Engineer,Packhelp,16000.0,26000.0,PLN,Node.js,Warsaw,Poland,False,2022-05-03
+Senior Backend Engineer,Laminar Global,17000.0,30000.0,PLN,,Wrocław,Poland,False,2022-05-03
+Backend Developer,Lite e-Commerce,15000.0,25000.0,PLN,,Warsaw,Poland,True,2022-05-03
+Node Developer- Remote/Wrocław,Sofomo,12000.0,24000.0,PLN,Node.js,Wrocław,Poland,True,2022-05-03
+AWS Engineer,Spyrosoft,18480.0,29400.0,PLN,,Wroclaw,Poland,False,2022-05-03
+Software Developer (.NET),Apptio,14000.0,22000.0,PLN,.NET,Kraków,Poland,False,2022-05-03
+Junior Node.js Developer,Wave,15000.0,18000.0,PLN,Node.js,Kraków,Poland,False,2022-05-03
+Remote Mid Backend Node.js Developer,CKSource,14000.0,24000.0,PLN,Node.js,Remote,,True,2023-08-15
+Remote Senior Backend Node.js Developer,CKSource,24000.0,32000.0,PLN,Node.js,Remote,,True,2023-08-15
+Remote Senior Software Engineer (Java),FINEOS,15000.0,23000.0,PLN,Java,Gdańsk,Poland,True,2023-08-15
+Senior .NET Engineer,C.H. Robinson,18000.0,23000.0,PLN,.NET,Warsaw,Poland,False,2023-08-15
+Remote Mid Java & Camunda Developer,Tuatara,13000.0,17000.0,PLN,Java,Warszawa,Poland,True,2023-08-15
+API Management System Developer,Orange Polska,13000.0,17000.0,PLN,,Warszawa,Poland,False,2023-08-15
+Lead Data Cloud Engineer,emagine Sp. Z o.o.,31920.0,36960.0,PLN,,Warszawa,Poland,True,2023-08-15
+Software Engineer C#,Motorola Solutions Systems Polska,12000.0,17000.0,PLN,C#,Kraków,Poland,True,2023-08-15
+Node.js Developer,Avenga,21840.0,23520.0,PLN,Node.js,Remote,,True,2023-08-15
+DevOps Engineer,HERO LABS,21000.0,28000.0,PLN,,Łódź,Poland,False,2023-08-15
+Programista Backend,Avenga,25200.0,28560.0,PLN,,Warsaw,Poland,False,2024-02-20
+Middle Support Engineer,MasterBorn,10000.0,16000.0,PLN,,Wrocław,Poland,False,2024-02-20
+Java Engineer - Remote (f/m/x),AUTO1 Polska Sp.z o.o.,12000.0,17000.0,PLN,Java,Remote,,True,2024-02-20
+Mid DevOps/ SecOps Engineer,Zebra Technologies,8000.0,11000.0,PLN,,Gliwice,Poland,False,2024-02-20
+Junior DevOps/ SecOps Engineer,Zebra Technologies,6000.0,10000.0,PLN,,Gliwice,Poland,False,2024-02-20
+Node.js Developer,MUG Software,8000.0,16000.0,PLN,Node.js,Poznań,Poland,False,2024-02-20
+DevOps Engineer,Celadon,8000.0,12000.0,PLN,,Remote,,True,2024-02-20
+Backend .NET Software Engineer,Appfire,13400.0,18000.0,PLN,.NET,Gdańsk,Poland,False,2024-02-20
+Senior DevOps Engineer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,10000.0,20000.0,PLN,,Katowice,Poland,False,2024-02-20
+.NET Developer with Docker / Kubernetes,AVENGA,20160.0,23520.0,PLN,.NET,Warsaw,Poland,False,2024-02-20
+Senior Tech Lead,Hirely Sp. z o.o.,21000.0,27000.0,PLN,,Wrocław,Poland,False,2023-03-08
+Remote Senior Node.js Developer,Link Group,28000.0,30000.0,PLN,Node.js,Warszawa,Poland,True,2023-03-08
+Middle Node.js Developer,Yalantis,12000.0,18000.0,PLN,Node.js,Larnaka,,True,2023-03-08
+Backend Node.js Developer,MUG Software,8000.0,14000.0,PLN,Node.js,Poznań,Poland,False,2023-03-08
+Senior Node.js Developer Remote,Superdevs,25200.0,30240.0,PLN,Node.js,Remote,,True,2023-03-08
+Senior Software Engineer Node/Vue/TypeScript,Reedsy,5000.0,8333.0,EUR,TypeScript,Remote,,True,2024-12-26
+Inżynier/ka Oprogramowania - Python Developer,NASK Państwowy Instytut Badawczy,7000.0,12000.0,PLN,Python,Warsaw,Poland,True,2024-12-26
+C++ Developer,ESET,15000.0,23000.0,PLN,C++,Kraków,Poland,False,2024-12-26
+Remote Node.js Engineer,Link Group,,,string,Node.js,string,,True,2022-02-24
+Remote Node.js Developer,Remedy,,,string,Node.js,Warsaw,Poland,True,2022-02-24
+Remote Node.js Engineer,Ringier Axel Springer Tech,,,string,Node.js,Kraków,Poland,True,2022-02-24
+Remote Node.js Developer,Simply Talented,,,string,Node.js,string,,True,2022-02-24
+Remote Senior Node.Js Developer,Westwing Sp. z o.o.,,,string,Node.Js,Warsaw,Poland,True,2022-02-24
+Remote Mid Node.JS Backend Developer,Massive Pixel Creation,,,string,Node.JS,Katowice,Poland,True,2022-02-24
+Remote Node.js Developer,HR Bank Sp. z o.o /Headhunting Agency,,,string,Node.js,Warsaw,Poland,True,2022-02-24
+Principal/Tech Lead Software Development,"Corvil, a Pico company",,,string,,Kraków,Poland,False,2022-02-24
+Software Engineer,ShiftKey,,,string,,Warsaw,Poland,True,2022-02-24
+Senior Software Engineer,Mpeople,,,string,,Kraków,Poland,False,2022-02-24
+Team Lead Software Engineer,AUTO1 Group,,,string,,Katowice,Poland,True,2022-02-24
+DevOps Engineer,NetworkedAssets Sp. z o.o.,13000.0,22000.0,PLN,,Wrocław,Poland,False,2023-09-26
+Remote Senior DevOps,RemoDevs,6500.0,7500.0,EUR,,Warszawa,Poland,True,2023-09-26
+Lider Backend PHP - Remote,Emotivo,12000.0,17000.0,PLN,PHP,puławy,Poland,True,2023-09-26
+Senior Cloud-native Backend Engineer,Showpad,25000.0,30000.0,PLN,,Wroclaw,Poland,False,2023-09-26
+Back-End/ Full-Stack Developer with Node.js,umlaut Sp. z o.o.,12600.0,22680.0,PLN,Node.js,Szczecin,Poland,False,2023-09-26
+Senior Node.js Engineer,Ringier Axel Springer Tech,15100.0,25200.0,PLN,Node.js,Kraków,Poland,False,2023-09-26
+Senior Ruby Engineer,AVENGA,27300.0,29300.0,PLN,Ruby,Wrocław,Poland,True,2023-09-26
+Remote Senior Backend Java Developer,Shift4,25000.0,32000.0,PLN,Java,Wrocław,Poland,True,2023-09-26
+Senior Node.js / Tech Lead,Avenga,23520.0,28560.0,PLN,Node.js,Remote,,True,2023-09-26
+.NET Developer,Objectivity,15960.0,21840.0,PLN,.NET,Wrocław,Poland,True,2023-09-26
+Senior Cloud Engineer,Ework Group,26880.0,31920.0,PLN,Typescript,Copenhagen,,True,2023-07-25
+IntelliJ Plugins Engineer,VirtusLab,21000.0,27000.0,PLN,,Rzeszów,Poland,True,2023-07-25
+Backend Node.js Engineer,Appfire,17000.0,24500.0,PLN,Node.js,Warsaw,Poland,True,2023-07-25
+Senior Software Engineer (Java),FINEOS,15000.0,23000.0,PLN,Java,Gdańsk,Poland,True,2023-07-25
+Lead Back-end JavaScript Developer,Klika Tech,22680.0,30240.0,PLN,JavaScript,Wrocław,Poland,True,2023-07-25
+Senior Back-end JavaScript Developer,Klika Tech,22680.0,30240.0,PLN,JavaScript,Wrocław,Poland,True,2023-07-25
+Node.js Developer,CrustLab,20000.0,28500.0,PLN,Node.js,Kraków,Poland,True,2023-07-25
+Senior Java Developer,ALTEN Polska,23520.0,29400.0,PLN,Java,Kraków,Poland,True,2023-07-25
+Senior Backend Engineer/Architect,Lite e-Commerce,24000.0,30000.0,PLN,,Warsaw,Poland,True,2023-07-25
+Lead Node.js Developer,Intellias,,,string,Node.js,string,,,2023-10-14
+Senior Node.js Engineer,Printify,,,string,Node.js,Kraków,Poland,True,2023-10-14
+Senior Node.js Backend Developer,Clurgo Sp. z o.o.,,,string,Node.js,Warszawa,Poland,True,2023-10-14
+Remote Mid TypeScript Developer,CKSource,,,string,Node.js,Kraków,Poland,True,2023-10-14
+Junior Back-End Developer,KAPSYS Pte. Ltd,,,string,Node.js,string,,True,2023-10-14
+REMOTE - Node.js Team Leader,Startup House,,,string,Node.js,Warszawa,Poland,True,2023-10-14
+Senior Java Developer,Randstad Polska sp. z o.o.,,,string,Java,Poznań,Poland,False,2023-10-14
+JAVA DEVELOPER,PKO FINAT,,,string,Java,Warszawa,Poland,False,2023-10-14
+Senior Java Developer,Idego Group Sp. z o.o.,,,string,Java,Katowice,Poland,True,2023-10-14
+Senior Java Software Engineer,Motorola Solutions Systems Polska,,,string,Java,Kraków,Poland,True,2023-10-14
+Mid Java/Kotlin/Scala Developer,Nussknacker,,,string,Java,Warszawa,Poland,False,2023-10-14
+Software .Net Developer,TeamQuest,24000.0,28000.0,PLN,.Net,Remote,,True,2024-05-11
+Software Engineer .Net,TeamQuest,23000.0,28000.0,PLN,.Net,Remote,,True,2024-05-11
+Senior TypeScript Backend Engineer,Codepole,20000.0,25000.0,PLN,TypeScript,Warsaw,Poland,True,2024-05-11
+Remote Senior Node.js Developer AWS,ClearScale,,,string,Node.js,string,,True,2023-10-14
+Software Development Engineer,Remitly Poland sp. z o.o.,,,string,,Kraków,Poland,False,2023-10-14
+Software Engineer (28058),Splunk Services Sp. z o.o.,,,string,,Kraków,Poland,False,2023-10-14
+Data Engineer,SEB (Skandinaviska Enskilda Banken),,,string,,Warsaw,Poland,False,2023-10-14
+Backend Engineer (mid/senior),SEB Embedded,,,string,,Warsaw,Poland,False,2023-10-14
+PL/SQL Developer,Ness Solution Sp. z o. o.,,,string,PL/SQL,Warsaw,Poland,False,2023-10-14
+Backend Engineer,Rollup,,,string,,string,,True,2023-10-14
+Back-end Developer,LETHE Jakub Chmielniak,,,string,,Bielsko - Biała,Poland,True,2023-10-14
+Senior Backend Developer,BinaryCortex LLC,,,string,,string,,True,2023-10-14
+Senior Software Engineer,juucy,,,string,,Warsaw,Poland,False,2023-10-14
+Senior Software Engineer,CloudFerro,,,string,,Warsaw,Poland,False,2023-10-14
+Senior TypeScript & Node.js Developer,ARK.io,,,string,TypeScript,string,,,2022-02-24
+Software Engineer,ShiftKey,,,string,,Warszawa,Poland,True,2022-02-24
+Senior Software Engineer,Semaphore,,,string,,string,,True,2022-02-24
+Team Lead Software Engineer,AUTO1 Group,,,string,,Katowice,Poland,True,2022-02-24
+Tech Lead,eobuwie.pl,,,string,,Wrocław,Poland,True,2022-02-24
+Backend Engineer,"Secret Sauce Partners, Inc.",,,string,,string,,True,2022-02-24
+Software Engineer,Semaphore,,,string,,string,,True,2022-02-24
+Principal/Tech Lead Software Development,"Corvil, a Pico company",,,string,,Kraków,Poland,False,2022-02-24
+Backend Developer,PySENSE Sp. z o.o.,,,string,,Warszawa,Poland,False,2022-02-24
+Senior Software Engineer,Mpeople,,,string,,Kraków,Poland,False,2022-02-24
+Junior/Regular Software Engineer,HARMAN Connected Services,,,string,,Łódź,Poland,False,2022-02-24
+Node.js Developer,Selleo Labs,10000.0,18000.0,PLN,Node.js,Bielsko - Biała,Poland,True,2024-04-17
+Software Development Engineer,Remitly Poland sp. z o.o.,20000.0,23000.0,PLN,,Kraków,Poland,False,2024-04-17
+Solution Architect,RemoDevs,32000.0,35000.0,PLN,,Warszawa,Poland,True,2024-04-17
+Node.js Developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,15000.0,16000.0,PLN,Node.js,Tychy,Poland,True,2024-04-17
+Remote Middle Backend Node.js Developer,Shelf,3000.0,5000.0,USD,Node.js,Wrocław,Poland,True,2024-04-17
+Senior Data Engineer,Showpad,22000.0,35000.0,PLN,,Wroclaw,Poland,True,2024-04-17
+Senior Kotlin/Java Software Developer,Hitachi Energy,12000.0,18000.0,PLN,Kotlin/Java,Kraków,Poland,False,2024-04-17
+DevOps Engineer,ESET,13000.0,16000.0,PLN,DevOps,Kraków,Poland,False,2024-04-17
+Programista Backend PHP,Emotivo,12000.0,15000.0,PLN,PHP,puławy,Poland,True,2024-04-17
+Senior Data Engineer,Showpad,22000.0,35000.0,PLN,Data,Wroclaw,Poland,True,2024-04-29
+Senior Backend Developer,Top Tier Authentics,4500.0,6500.0,USD,Backend,Remote,,True,2024-04-29
+Remote Middle Backend Node.js Developer,Shelf,3000.0,5000.0,USD,Node.js,Wrocław,Poland,True,2024-04-29
+Senior Software Engineer,Appfire,18300.0,25100.0,PLN,,Warszawa,Poland,True,2024-04-29
+REMOTE Node.js Developer,Startup Development House,8400.0,16800.0,PLN,Node.js,Warsaw,Poland,True,2023-06-26
+.NET Developer (remote or hybrid),Apator Rector Sp. z o.o.,14000.0,20000.0,PLN,.NET,Zielona Góra,Poland,True,2023-06-26
+Node Developer,MUG Software,8000.0,14000.0,PLN,Node.js,Poznań,Poland,True,2023-06-26
+Node.js Developer,Codeshine,12000.0,15000.0,PLN,Node.js,Remote,,True,2023-06-26
+DevOps Engineer,XUND,1600000.0,1800000.0,HUF,DevOps,Budapest,Hungary,False,2023-06-26
+Senior Node.js / Tech Lead,Avenga,,,string,Node.js,string,,,2023-09-30
+Remote Mid TypeScript Developer ( Node.js ),CKSource,,,string,Node.js,Kraków,Poland,True,2023-09-30
+Remote Backend Developer (Node.js),Droids On Roids,,,string,Node.js,string,,True,2023-09-30
+REMOTE - Node.js Team Leader,Startup House,,,string,Node.js,Warszawa,Poland,True,2023-09-30
+Node.js Developer,CrustLab,,,string,Node.js,Kraków,Poland,,2023-09-30
+Backend Developer Node.js/TypeScript,Devire Sp. z o.o.,,,string,Node.js,string,,True,2023-09-30
+NodeJS Developer – Cloud,Sii Polska,,,string,Node.js,Białystok,Poland,,2023-09-30
+Node.js Developer,MUG Software,,,string,Node.js,Poznań,Poland,,2023-09-30
+Backend Developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,,,string,,Tychy,Poland,,2023-09-30
+Backend Engineer,Rollup,,,string,,string,,True,2023-09-30
+Back-end Developer,LETHE Jakub Chmielniak,,,string,,Bielsko - Biała,Poland,,2023-09-30
+Lider Backend PHP,Emotivo,12000.0,17000.0,PLN,PHP,puławy,Poland,True,2023-09-07
+Senior Node.js / Tech Lead,Avenga,23520.0,28560.0,PLN,Node.js,Remote,,True,2023-09-07
+Senior .NET Developer,Objectivity,20160.0,27720.0,PLN,.NET,Wrocław,Poland,True,2023-09-07
+Node.js Developer,CrustLab,20000.0,28500.0,PLN,Node.js,Kraków,Poland,True,2023-09-07
+Remote Node.js Developer AWS,ClearScale,5880.0,7560.0,USD,Node.js,Warszawa,Poland,True,2023-09-07
+DevOps Engineer III,Box Inc.,18000.0,25500.0,PLN,,Warsaw,Poland,False,2024-08-13
+Senior Software Engineer,Chorus One,8333.0,11666.0,USD,,Remote,,True,2024-08-13
+Golang Developer,Vier,5000.0,6000.0,EUR,Golang,Poznań,Poland,False,2024-08-13
+Software Engineer - Java,Volvo Tech Hub Poland,11000.0,16500.0,PLN,Java,Kraków,Poland,False,2024-08-13
+Mid/Senior Software Engineer with TypeScript,CodiLime,16500.0,27500.0,PLN,TypeScript,Warsaw,Poland,True,2024-08-13
+Middle Back End Developer (TypeScript),4 The Player,9000.0,15000.0,PLN,TypeScript,Kraków,Poland,True,2024-08-13
+Senior Software Engineer,Kontakt.io,25500.0,29000.0,PLN,,Kraków,Poland,True,2024-08-13
+Junior Blockchain Developer,Invariant,5000.0,10000.0,PLN,,Kraków,Poland,True,2024-08-13
+"Senior Software Engineer, Platform Tools",Box Inc.,30000.0,35000.0,PLN,,Warsaw,Poland,False,2024-08-13
+Senior/Lead Backend Developer,DEV12 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,20000.0,35000.0,PLN,,Warszawa,Poland,True,2024-08-13
+Lead MLOps Engineer (Nvidia AI Stack Expert),SoftServe,28000.0,34000.0,PLN,Python,Wrocław,Poland,True,2023-11-13
+MLOps Engineer,SoftServe,21000.0,27000.0,PLN,Python,Wrocław,Poland,True,2023-11-13
+AI DevOps Engineer,Lingaro,16800.0,20160.0,PLN,,Warsaw,Poland,True,2023-11-13
+Senior Machine Learning Engineer,Numlabs,14500.0,18500.0,PLN,Python,Kraków,Poland,True,2023-11-13
+ML (Python + NLP) Engineer,SFox,3000.0,5000.0,EUR,Python,Remote,,True,2023-11-13
+Data Scientist ( Mid / Senior ),Addepto,13000.0,26000.0,PLN,Python,Warszawa,Poland,True,2023-11-13
+Technical Team Leader | ML/AI,Open Nexus sp. z o.o.,23000.0,27000.0,PLN,Python,Poznań,Poland,False,2023-11-13
+Machine Learning Engineer,Numlabs,8500.0,14500.0,PLN,Python,Kraków,Poland,True,2023-11-13
+Data Science Manager,Addepto,18000.0,30000.0,PLN,Python,Warszawa,Poland,True,2023-11-13
+Senior Data Scientist REMOTE 🌍,Sigmoidal LLC,6800.0,8450.0,USD,Python,Remote,,True,2023-11-13
+Senior Cloud Infrastructure Engineer,Starburst,28000.0,37000.0,PLN,,Warsaw,Poland,True,2023-05-30
+Senior Node.js Engineer,SoftServe,18000.0,27700.0,PLN,Node.js,Gdańsk,Poland,False,2023-05-30
+PHP Developer,CARET,16000.0,25000.0,PLN,PHP,Poznań,Poland,True,2023-05-30
+AEM Senior Software Engineer,Wunderman Thompson Technology,18000.0,25000.0,PLN,,Poznań,Poland,True,2023-05-30
+Mid/ Senior Azure Cloud Engineer,Reply Polska,16000.0,28000.0,PLN,,Katowice,Poland,False,2023-05-30
+Remote Senior Node.js Developer,SoftwareMill,25200.0,31500.0,PLN,Node.js,Warsaw,Poland,True,2023-05-30
+Senior Node.js Backend Developer,Clurgo Sp. z o.o.,23520.0,28560.0,PLN,Node.js,Warsaw,Poland,True,2023-05-30
+REMOTE - Back-end Team Leader,Startup Development House,18800.0,27200.0,PLN,,Warsaw,Poland,True,2023-05-30
+Remote Node.js Back End Engineer,P2 Recruitment,25000.0,30000.0,PLN,Node.js,Remote,,True,2023-05-30
+Remote Senior Node.js Developer,Cleeng sp.z.o.o,18000.0,26000.0,PLN,Node.js,Poznań,Poland,True,2023-05-30
+"Remote Backend Developer (node.js, AWS)",ClearScale,,,string,node.js,string,,True,2022-03-29
+Senior Software Engineer (NodeJS),Proteus.Finance,,,string,NodeJS,string,,True,2022-03-29
+Senior Backend Node.js Developer,Adaptiq,,,string,Node.js,string,,True,2022-03-29
+Remote mid/senior Python Dev | ma=C5=82y team,Pomagam.pl,,,string,Python,Warszawa,Poland,True,2022-03-29
+Remote Mid Backend Engineer,Nextbike Polska S.A w Restrukturyzacji,,,string,,Warszawa,Poland,True,2022-03-29
+Remote Mid Backend Engineer,Nextbike Polska S.A w Restrukturyzacji,,,string,,Warszawa,Poland,True,2022-03-29
+Remote Senior/Principal Backend Node.js,PGS Software S.A.,,,string,Node.js,Gdańsk,Poland,True,2022-03-29
+Senior Python / Node.js developer,Cisco,,,string,Python,string,,True,2022-03-29
+Node.js Engineer,Ringier Axel Springer Tech,,,string,Node.js,Kraków,Poland,True,2022-03-29
+Nodejs Developer,DevBrother,,,string,Node.js,Gdańsk,Poland,True,2022-03-29
+.NET Developer (Remote),Infoprojekt sp. z o. o.,,,string,.NET,Gdańsk,Poland,True,2022-03-29
+.NET Developer,Britenet,21840.0,25200.0,PLN,.NET,Remote,,True,2023-07-18
+IntelliJ Plugins Engineer,VirtusLab,21000.0,27000.0,PLN,,Rzeszów,Poland,True,2023-07-18
+Senior Cloud Engineer,Ework Group,26880.0,31920.0,PLN,,Copenhagen,,True,2023-07-18
+Lead Back-end JavaScript Developer,Klika Tech,22680.0,30240.0,PLN,JavaScript,Wrocław,Poland,True,2023-07-18
+Senior Back-end JavaScript Developer,Klika Tech,22680.0,30240.0,PLN,JavaScript,Wrocław,Poland,True,2023-07-18
+Senior Node Developer,Volvo Group,15000.0,21000.0,PLN,Node,Wrocław,Poland,True,2023-07-18
+Remote Senior Node.JS Backend Developer,CKSource,22000.0,30000.0,PLN,Node.JS,Warsaw,Poland,True,2024-08-03
+Remote Mid / Senior .NET Developer,Aspire Systems Poland,13000.0,20000.0,PLN,.NET,Gdańsk,Poland,True,2024-08-03
+Senior .Net Developer,GFT Poland,21000.0,26880.0,PLN,.Net,Wrocław,Poland,False,2024-08-03
+Junior/Mid Software Engineer | High Load Platform,Adform Sp. z o.o.,17425.0,30800.0,PLN,,Warszawa,Poland,False,2024-08-03
+Site Reliability Engineer - SRE,NATEK Poland,115500.0,115500.0,CZK,,Prague,,False,2024-08-03
+Java Backend Developer,Unity-T Group,10000.0,17000.0,PLN,Java,Kraków,Poland,False,2024-08-03
+Remote Senior DevOps,RemoDevs,6500.0,7500.0,EUR,,Warszawa,Poland,True,2023-10-17
+Remote Senior Backend Java Developer,Shift4,25000.0,32000.0,PLN,Java,Wrocław,Poland,True,2023-10-17
+Remote Java Developer,Objectivity - part of Accenture,15960.0,26880.0,PLN,Java,Gdańsk,Poland,True,2023-10-17
+(Remote) Tech Lead Python Backend Engineer,Qonto,5833.0,6833.0,EUR,Python,Remote,,True,2023-10-17
+Remote Mid TypeScript Developer ( Node.js ),CKSource,14000.0,18000.0,PLN,TypeScript,Kraków,Poland,True,2023-10-17
+Lead Node.js Developer,Intellias,25200.0,,PLN,Node.js,Kraków,Poland,False,2023-10-17
+Senior Cloud-native Backend Engineer,Showpad,25000.0,30000.0,PLN,,Wroclaw,Poland,False,2023-10-17
+Remote Senior GoLang Developer,Objectivity - part of Accenture,21840.0,27720.0,PLN,GoLang,Gdańsk,Poland,True,2023-10-17
+REMOTE Middle Node.js Developer,Valtech,3000.0,4300.0,EUR,Node.js,Remote,,True,2023-10-17
+Senior Node.js Backend Developer,Clurgo Sp. z o.o.,23520.0,27720.0,PLN,Node.js,Warszawa,Poland,True,2023-10-17
