@@ -1,7 +1,5 @@
 # I pulled job data from my inbox to see if there was a trend
 
-## The results
-
 I set up email alerts from No Fluff Jobs a few years ago. Every day I have been getting several of these per day and I've always thought there might be away to extract some kind of trend from them.
 
 ![Emails](./docs/email_example.png)
@@ -10,7 +8,7 @@ So I did that and these were the results. [You can read about it here in my blog
 
 ![Adjusted max salary remote vs non-remote](./docs/adjusted_max_salary_plot_remove_vs_non_remote.png)
 
-[Or Just check out the Python Notebook with the results](./docs/)
+[Or Just check out the Python Notebook with the results](./job_data.ipynb)
 
 ## Set up
 
