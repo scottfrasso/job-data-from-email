@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 from markdownify import markdownify
 from bs4 import BeautifulSoup
